@@ -1,0 +1,75 @@
+.header{
+    width:100%;
+    height:50px;
+    background-color:#333333;
+    margin-top:-20px;
+}
+.header ul{
+    display:flex;
+    color:white;
+    list-style:none;
+    justify-content:space-around;
+    line-height:50px;
+}.header ul li a{
+    text-decoration:none;
+    color:white;
+}
+#below_header{
+    text-align:center;
+}#below_header a{
+    text-decoration:none;
+    color:rgb(16, 156, 190);
+}
+.iphone12{
+    width:auto;
+    height:auto;
+}
+#divp:hover{
+    text-decoration:underline;
+}.iphone12 p,pre{
+    text-align: center;
+}.iphone12 pre a {
+    text-decoration: none;
+    color:rgb(66, 181, 226); 
+}.iphone12 pre a:hover{
+    text-decoration:underline;
+}
+
+.iphone12pro{
+    width:auto;
+    height:auto;
+    background:black;
+    margin-top:-40px;
+}
+#divp:hover{
+    text-decoration:underline;
+}.iphone12pro p,pre{
+    text-align: center;
+}.iphone12pro pre a {
+    text-decoration: none;
+    color:rgb(66, 181, 226); 
+}.iphone12pro pre a:hover{
+    text-decoration:underline;
+}
+
+
+.ipadpro{
+    width:auto;
+    height:auto;
+    background:black;
+    margin-top:-30px;
+}
+#divp:hover{
+    text-decoration:underline;
+}.ipadpro p,pre{
+    text-align: center;
+}.ipadpro pre a {
+    text-decoration: none;
+    color:rgb(66, 181, 226); 
+}.ipadpro pre a:hover{
+    text-decoration:underline;
+}
+
+.images img{
+    float:left;
+}
